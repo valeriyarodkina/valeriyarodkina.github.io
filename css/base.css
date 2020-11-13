@@ -72,7 +72,9 @@ header h1 {font-size: 3em; margin-bottom: 10px;}
 header h2 {font-size: 2em;}
 header h4 {font-weight: normal; margin-bottom: 10px;}
 
-
+header .social a {float: center; margin-right: 10px;}
+header .social a img {width: 35px; opacity: 0.4;}
+header .social a:hover img {opacity: 1;}
 
 
 /*
@@ -212,9 +214,7 @@ footer p {color: #aaa; line-height: 15px; font-size: 12px; margin-bottom: 7px;}
 footer a {color: #ddd;}
 footer a:hover {color: #ff6a00;}
 
-footer .social a {float: left; margin-right: 10px;}
-footer .social a img {width: 35px; opacity: 0.4;}
-footer .social a:hover img {opacity: 1;}
+
 
 
 
