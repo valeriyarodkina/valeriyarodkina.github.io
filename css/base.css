@@ -73,7 +73,7 @@ header h2 {font-size: 2em;}
 header h4 {font-weight: normal; margin-bottom: 10px;}
 
 header .social a {float: center; margin-right: 10px;}
-header .social a img {width: 35px; opacity: 0.4;}
+header .social a img {width: 35px; opacity: 0.4; background: #fff;}
 header .social a:hover img {opacity: 1;}
 
 
